@@ -1,0 +1,12 @@
+theme: minima
+title: Nakarin Hiransuthikul
+author: Nakarin Hiransuthikul
+show_downloads: false
+twitter_username: parng
+github_username: parng
+linkedin_username: parng
+facebook_username: parng.net
+
+header_pages:
+ - resume.md
+ - recruiter.md
