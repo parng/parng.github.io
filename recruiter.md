@@ -22,7 +22,6 @@ Other notes
  * **Do not email my @google.com address or my other email addresses.**<br>
    My @google.com address is also configured to block non @google.com emails.<br>
 
-   <br>
  * **Do not send me LinkedIn or Facebook invites**<br>
    I will promptly decline or report "I do not know this person".<br>
 
