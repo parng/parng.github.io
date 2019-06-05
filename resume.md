@@ -13,7 +13,7 @@ Last updated: 2018-04-29.
 January 2015 - Present
 
   * 2018 - [Google Photos](https://photos.google.com)
-    * Android client infra team, working on performance and GDPR compliance
+    * Android client infra team, working on performance, metadata sync, and GDPR compliance
     <br><br>
 
   * 2016-2017 - [Reserve with Google](https://www.google.com/maps/reserve/)
