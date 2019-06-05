@@ -4,8 +4,6 @@ title: Recruiter?
 permalink: /recruiter/
 ---
 
-<br>
-
 As of 2019, I am happy with my current role at Google.<br>
 If you would like to contact me anyway, I am willing to consider opportunities that is located in:
 
