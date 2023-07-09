@@ -2,12 +2,14 @@ theme: minima
 title: Nakarin Hiransuthikul
 author: Nakarin Hiransuthikul
 show_downloads: false
-twitter_username: parng
-github_username: parng
-linkedin_username: parng
-facebook_username: parng.net
+
+minima:
+  social_links:
+    - { platform: linkedin,      user_url: "https://www.linkedin.com/in/parng" }
+    - { platform: github,        user_url: "https://github.com/parng" }
+    - { platform: mastodon,      user_url: "https://mastodon.social/@nakarin" }
+    - { platform: facebook,      user_url: "https://www.facebook.com/parng.net" }
+    - { platform: twitter,       user_url: "https://twitter.com/parng" }
 
 header_pages:
  - resume.md
- - recruiter.md
- - photography.md
